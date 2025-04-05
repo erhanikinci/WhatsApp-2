@@ -1,11 +1,11 @@
 [
   {
     "id": "m1",
-    "text": "How are you, Lukas!",
+    "text": "How are you, Erkan!",
     "createdAt": "2022-10-10T12:48:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
     }
   },
   {
@@ -14,7 +14,7 @@
     "createdAt": "2022-10-03T14:49:00.000Z",
     "user": {
       "id": "u2",
-      "name": "Lukas"
+      "name": "Erkan"
     }
   },
   {
@@ -23,7 +23,7 @@
     "createdAt": "2022-10-03T14:49:40.000Z",
     "user": {
       "id": "u2",
-      "name": "Lukas"
+      "name": "Erkan"
     }
   },
   {
@@ -32,7 +32,7 @@
     "createdAt": "2022-10-03T14:50:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
     }
   },
   {
@@ -41,7 +41,7 @@
     "createdAt": "2022-10-03T14:51:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
     }
   },
   {
@@ -50,7 +50,7 @@
     "createdAt": "2022-10-03T14:49:00.000Z",
     "user": {
       "id": "u2",
-      "name": "Lukas"
+      "name": "Erkan"
     }
   },
   {
@@ -59,7 +59,7 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
     }
   },
   {
@@ -68,7 +68,7 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
     }
   },
   {
@@ -77,7 +77,7 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u2",
-      "name": "Lukas"
+      "name": "Erkan"
     }
   },
   {
@@ -86,7 +86,7 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u2",
-      "name": "Lukas"
+      "name": "Erkan"
     }
   },
   {
@@ -95,7 +95,7 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u2",
-      "name": "Lukas"
+      "name": "Erkan"
     }
   },
   {
@@ -104,7 +104,7 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
     }
   },
   {
@@ -113,7 +113,279 @@
     "createdAt": "2022-10-03T14:53:00.000Z",
     "user": {
       "id": "u1",
-      "name": "Vadim"
+      "name": "Erhan"
+    }
+  },
+
+  {
+    "id": "m14",
+    "text": "Have you finished the assignment?",
+    "createdAt": "2022-10-03T14:55:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m15",
+    "text": "Not yet, I’m planning to do it tonight.",
+    "createdAt": "2022-10-03T14:56:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m16",
+    "text": "Alright, let me know if you need any help.",
+    "createdAt": "2022-10-03T14:56:30.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m17",
+    "text": "Sure, thank you!",
+    "createdAt": "2022-10-03T14:57:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m18",
+    "text": "Did you check out the new course materials?",
+    "createdAt": "2022-10-03T14:58:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m19",
+    "text": "Yes, I did. The new topic looks exciting!",
+    "createdAt": "2022-10-03T14:59:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m20",
+    "text": "Let’s go over it together later.",
+    "createdAt": "2022-10-03T15:00:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m21",
+    "text": "Sounds good. I’m free after 6.",
+    "createdAt": "2022-10-03T15:01:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m22",
+    "text": "Great! Let’s meet at the library then.",
+    "createdAt": "2022-10-03T15:02:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m23",
+    "text": "See you there!",
+    "createdAt": "2022-10-03T15:03:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+
+  {
+    "id": "m24",
+    "text": "Do you remember what the professor said about the project deadline?",
+    "createdAt": "2022-10-03T15:04:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m25",
+    "text": "I think it’s due next Friday, but I’ll double-check the syllabus.",
+    "createdAt": "2022-10-03T15:05:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m26",
+    "text": "Okay, let me know what you find out.",
+    "createdAt": "2022-10-03T15:06:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m27",
+    "text": "Sure. By the way, are you going to the workshop tomorrow?",
+    "createdAt": "2022-10-03T15:07:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m28",
+    "text": "Yes, I heard it’s going to be interesting.",
+    "createdAt": "2022-10-03T15:08:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m29",
+    "text": "Great! Let’s sit together then.",
+    "createdAt": "2022-10-03T15:09:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m30",
+    "text": "Absolutely! Do you want to meet before that for coffee?",
+    "createdAt": "2022-10-03T15:10:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m31",
+    "text": "Sure, 10 AM at the campus cafe?",
+    "createdAt": "2022-10-03T15:11:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m32",
+    "text": "Perfect. See you there!",
+    "createdAt": "2022-10-03T15:12:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m33",
+    "text": "By the way, did you get the notes from yesterday’s class?",
+    "createdAt": "2022-10-03T15:13:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m34",
+    "text": "Yes, I can send them over now.",
+    "createdAt": "2022-10-03T15:14:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m35",
+    "text": "Thanks, that would be helpful.",
+    "createdAt": "2022-10-03T15:15:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m36",
+    "text": "Check your email, just sent them.",
+    "createdAt": "2022-10-03T15:16:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m37",
+    "text": "Got them. Appreciate it!",
+    "createdAt": "2022-10-03T15:17:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m38",
+    "text": "No problem. Let me know if you have questions.",
+    "createdAt": "2022-10-03T15:18:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m39",
+    "text": "I will. You’re always so helpful.",
+    "createdAt": "2022-10-03T15:19:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m40",
+    "text": "Haha, just trying to be a good teammate 😄",
+    "createdAt": "2022-10-03T15:20:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m41",
+    "text": "Mission accomplished! 😊",
+    "createdAt": "2022-10-03T15:21:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
+    }
+  },
+  {
+    "id": "m42",
+    "text": "Let’s ace the presentation next week.",
+    "createdAt": "2022-10-03T15:22:00.000Z",
+    "user": {
+      "id": "u2",
+      "name": "Erkan"
+    }
+  },
+  {
+    "id": "m43",
+    "text": "You bet. Let’s meet Sunday to rehearse?",
+    "createdAt": "2022-10-03T15:23:00.000Z",
+    "user": {
+      "id": "u1",
+      "name": "Erhan"
     }
   }
 ]

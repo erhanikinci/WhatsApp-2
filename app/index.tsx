@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
 import ChatsScreens from "../screens/ChatsScreens";
+import ChatScreen from "../screens/ChatScreen";
 
 
 export default function Index() {
@@ -8,7 +9,8 @@ export default function Index() {
       style={styles.container}
     >
 
-      < ChatsScreens />
+      {/* < ChatsScreens /> */}
+      < ChatScreen />
 
     </View>
   );
