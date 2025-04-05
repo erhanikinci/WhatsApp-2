@@ -2,6 +2,7 @@ import { KeyboardAvoidingView, Platform, StyleSheet, Text, View, ImageBackground
 import React from "react";
 import bg from "../assets/images/BG.png";
 import Message from "../components/Message";
+import InputBox from "../components/InputBox";
 import messages from "../assets/data/messages.json"
 
 const ChatScreen = () => {
@@ -19,6 +20,7 @@ const ChatScreen = () => {
           inverted
         />
         {/* <InputBox chatroom={chatRoom} /> */}
+        <InputBox />
       </ImageBackground>
     </KeyboardAvoidingView>
   );
